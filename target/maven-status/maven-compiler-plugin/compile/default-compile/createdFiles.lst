@@ -1,0 +1,4 @@
+cashRegistry\posTransaction.class
+cashRegistry\posEntityClass.class
+database\HibernateHelper.class
+database\TestHibernate.class
